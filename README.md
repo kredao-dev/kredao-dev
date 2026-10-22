@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+>
+> - Everything has an owner.
+> - It may have only one.
+> - No owner. No existence.
+>
+
 <!--
 **kredao-dev/kredao-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
